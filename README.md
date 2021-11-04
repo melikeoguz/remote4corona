@@ -91,6 +91,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Güzel Hosting](https://www.guzel.net.tr/)                 |                | -       |
 |     | [Hair of Istanbul](https://hairofistanbul.com)             |                | 1 Hafta |
 |     | [Hepsiburada](https://hepsiburada.com)                     |                |         |
+|     | [Heraklet](https://www.heraklet.com)                           |                |         |
 |     | [HexagonStudio](https://www.hexagonstudio.com.tr/)         |                | -       |
 |     | [Hürriyet Emlak](https://www.hurriyetemlak.com/)           |                | -       |
 |     | [i2i Systems](http://i2i-systems.com/)                     |                | -       |
